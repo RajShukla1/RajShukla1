@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Raj Pawan Shukla</h1>
 <h3 align="center">A web developer and open source enthusiast</h3>
-<img align="right" width="400" src="https://yandex.com/images/search?text=coding%20gif&from=tabbar&p=6&pos=251&rpt=simage&img_url=http%3A%2F%2Fcamo.githubusercontent.com%2Fa4c584bce1c41271485d28f92aaf9f581b3c88b68ca723b6edfd58b4ba988c2b%2F68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966&lr=112575.gif" alt="coding">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajshukla1&label=Profile%20views&color=0e75b6&style=flat" alt="rajshukla1" /> </p>
-
-<p align="left"> <a href="https://twitter.com/rajshuk49989182" target="blank"><img src="https://img.shields.io/twitter/follow/rajshuk49989182?logo=twitter&style=for-the-badge" alt="rajshuk49989182" /></a> </p>
+<img align="right" width="400" src="https://yandex.com/images/search?text=coding%20gif&from=tabbar&p=6&pos=251&rpt=simage&img_url=http%3A%2F%2Fcamo.githubusercontent.com%2Fa4c584bce1c41271485d28f92aaf9f581b3c88b68ca723b6edfd58b4ba988c2b%2F68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966&lr=112575" alt="coding">
 
 - 🌱 I’m currently learning **node.js**
 
