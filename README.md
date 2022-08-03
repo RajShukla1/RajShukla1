@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Raj Pawan Shukla</h1>
 <h3 align="center">A web developer and open source enthusiast</h3>
-<img align="right" width="400" src="https://www.freelancinggig.com/blog/wp-content/uploads/2018/10/Career-Path-for-a-Java-Developer.jpg" alt="coding">
+<img align="right" width="300" src="https://www.freelancinggig.com/blog/wp-content/uploads/2018/10/Career-Path-for-a-Java-Developer.jpg" alt="coding">
 
 - 🌱 I’m currently learning **node.js**
 
