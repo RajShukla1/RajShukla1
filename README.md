@@ -1,64 +1,87 @@
-<h1 align="center">Hi 👋, I'm Raj Pawan Shukla</h1>
-<h3 align="center">Magento 2 Developer | React Enthusiast | Cloud Learner</h3>
+Hi there 👋 I'm Raj Pawan Shukla
 
-<img align="right" width="300" src="https://www.freelancinggig.com/blog/wp-content/uploads/2018/10/Career-Path-for-a-Java-Developer.jpg" alt="coding">
+💻 Magento 2 Developer | React Developer | AWS Learner
 
-- 🧑‍💻 Currently working as a **Magento 2 Developer**, building custom modules, optimizing backend performance, and guiding junior devs.  
-- ⚙️ Experienced in **React, PHP, JavaScript, MySQL, XML, Knockout.js**, and **Magento APIs**.  
-- ☁️ Learning **AWS** to boost my cloud infrastructure skills.  
-- 📫 Reach me at: **rajshukla140@gmail.com**  
-- ♟️ Fun fact: I love playing chess and solving logical puzzles.
+I'm a software developer from Lucknow, India 🇮🇳 with 1.5+ years of professional experience building and customizing Magento 2 e-commerce applications.
+
+Alongside my day job, I enjoy building React applications, exploring cloud technologies, and continuously improving my development skills.
 
 ---
 
-<h3 align="left">🌐 Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/rajshuklatwt" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rajshuklatwt" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/rajshukla18" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajshukla18" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/RajShukla18" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="RajShukla18" height="30" width="40" />
-  </a>
-</p>
+🚀 About Me
+
+- 💼 Magento 2 Developer at Sprinix Technolabs
+- ⚛️ Building modern web applications with React
+- ☁️ Currently learning AWS and cloud deployment
+- 🔍 Interested in scalable web applications and backend development
+- 🤝 Experienced in client communication and mentoring junior developers
 
 ---
 
-<h3 align="left">🛠️ Tech Stack:</h3>
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-  </a>
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
-  </a>
-</p>
+🛠️ Tech Stack
+
+Languages
+
+- PHP
+- JavaScript
+- MySQL
+- HTML5
+- CSS3
+- XML
+
+Frameworks & Libraries
+
+- Magento 2
+- React.js
+
+Tools
+
+- Git
+- Bitbucket
+- VS Code
+
+Cloud & Deployment
+
+- AWS EC2
+- Vercel
+- Manual Server Deployment
 
 ---
 
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rajshukla1&show_icons=true&locale=en" alt="rajshukla1" />
-</p>
+🌟 Featured Projects
+
+🎬 YouTube Clone
+
+A responsive YouTube clone built using React and the YouTube Data API.
+
+🔗 Live Demo: https://raj-youtube.vercel.app
+
+---
+
+🌐 Personal Portfolio
+
+My personal portfolio showcasing my experience, projects, and technical skills.
+
+🔗 Live Demo: https://rajshukla-portfolio.vercel.app
+
+---
+
+📈 Currently Learning
+
+- AWS
+- Cloud Architecture
+- Modern JavaScript
+- Backend Best Practices
+
+---
+
+📫 Connect With Me
+
+- 🌐 Portfolio: https://rajshukla-portfolio.vercel.app
+- 💼 LinkedIn: https://linkedin.com/in/rajshukla18
+- 💻 GitHub: https://github.com/RajShukla1
+- 📧 Email: rajshukla140@gmail.com
+
+---
+
+«"Keep learning. Keep building. Keep shipping." 🚀»
