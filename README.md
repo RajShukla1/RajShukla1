@@ -2,7 +2,7 @@ Hi there 👋 I'm Raj Pawan Shukla
 
 💻 Magento 2 Developer | React Developer | AWS Learner
 
-I'm a software developer from Lucknow, India 🇮🇳 with 1.5+ years of professional experience building and customizing Magento 2 e-commerce applications.
+I'm a software developer from Lucknow, India 🇮🇳 with 3+ years of professional experience building and customizing Magento 2 e-commerce applications.
 
 Alongside my day job, I enjoy building React applications, exploring cloud technologies, and continuously improving my development skills.
 
